@@ -1,4 +1,4 @@
-# Maintaining a Good Commit History
+# Maintaining a Good Commit History c
 
 ## Learning Goals
 
